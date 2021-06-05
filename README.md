@@ -30,9 +30,11 @@
 
 
 <a href="https://github.com/hussiensezer">
-  <img align="center"  width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiensezer" />
+  <img align="center"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiensezer" />
 </a>
-
+<p align="center">⚡ Number of Visitors ⚡ <br>
+<img alr="⚡ Number of Visitors ⚡b" src="https://profile-counter.glitch.me/hussiensezer/count.svg"/>
+</p>
 # Current Programming Languages.
 <div>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
