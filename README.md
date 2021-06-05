@@ -30,7 +30,7 @@
 
 
 <a href="https://github.com/hussiensezer">
-  <img align="center"  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiensezer" />
+  <img align="center"  width="45%" style="margin-top:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiensezer" />
 </a>
 <p align="center">⚡ Number of Visitors ⚡ <br>
 <img  width="45%" align="center" alr="⚡ Number of Visitors ⚡b" src="https://profile-counter.glitch.me/hussiensezer/count.svg"/>
